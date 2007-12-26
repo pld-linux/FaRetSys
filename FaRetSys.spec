@@ -16,7 +16,7 @@ URL:		http://team.pld-linux.org/~wolf/eithne/
 BuildRequires:	dotnet-gtk-sharp2-devel >= 2.10.2
 BuildRequires:	gettext-devel
 BuildRequires:	mono-csharp >= 1.2.5
-Requires:	gtk+2 >= 2.12.1
+Requires:	gtk+2 >= 2:2.12.1
 Suggests:	fftw3
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 

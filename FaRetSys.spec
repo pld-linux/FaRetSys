@@ -14,7 +14,7 @@ Source0:	http://team.pld-linux.org/~wolf/eithne/res/eithne-%{version}.tar.bz2
 # Source0-md5:	7f06fbf045a51ff06294bdb793d41b59
 URL:		http://team.pld-linux.org/~wolf/eithne/
 BuildRequires:	dotnet-gtk-sharp2-devel >= 2.10.2
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	mono-csharp >= 1.2.5
 Requires:	gtk+2 >= 2:2.12.1
 Suggests:	fftw3

@@ -2,7 +2,6 @@
 # TODO:
 #  locale, icon, desktop file
 #
-%include	/usr/lib/rpm/macros.mono
 Summary:	Extensible image recognition systems modelling program
 Summary(pl.UTF-8):	Rozszerzalny program modelujący systemy rozpoznawania obrazów
 Name:		FaRetSys
